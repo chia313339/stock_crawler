@@ -1,0 +1,12 @@
+# Function dependencies, for example:
+# package>=version
+
+bs4
+pandas
+requests
+sqlalchemy
+configparser
+pymysql
+scipy
+sklearn
+datetime
